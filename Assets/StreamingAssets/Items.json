@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "title": "Steel Gloves",
+        "value": 6,
+        "stats": {
+            "power": 1,
+            "defence": 4,
+            "vitality": 2
+        },
+        "description": "강철로 만든 글러브다. 죽이는데?",
+        "stackable": false,
+        "rarity": 2,
+        "slug": "gloves_steel",
+        "isEquipment": true,
+        "equipmentType": 1
+    },
+    {
+        "id": 1,
+        "title": "Wooden Sword",
+        "value": 543,
+        "stats": {
+            "power": 56,
+            "defence": 2,
+            "vitality": 54
+        },
+        "description": "흔해 빠진 만든 목검이다.",
+        "stackable": false,
+        "rarity": 6,
+        "slug": "sword_wood",
+        "isEquipment": true,
+        "equipmentType": 2
+    },
+    {
+        "id": 2,
+        "title": "Water",
+        "value": 1,
+        "stats": {
+            "power": 0,
+            "defence": 0,
+            "vitality": 1
+        },
+        "description": "평범한 물이다.",
+        "stackable": true,
+        "rarity": 1,
+        "slug": "water",
+        "isEquipment": false,
+        "equipmentType": 0
+    }
+]
